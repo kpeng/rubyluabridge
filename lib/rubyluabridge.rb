@@ -1,0 +1,1 @@
+require 'rubyluabridge/rubyluabridge'
