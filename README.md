@@ -102,4 +102,4 @@ Download the latest sources from there.  Please use the mailing list and issue
 tracking features as well.
 
 I am particularly interested in problems you may have on various systems.  I have
-only tested it in Ubuntu Dapper and MacOSX.
+tested it in Ubuntu Linux and OS X.
